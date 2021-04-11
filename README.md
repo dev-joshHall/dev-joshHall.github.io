@@ -15,3 +15,4 @@ This will be a webpage that represents a basic profile of myself.
 3. I indented my poem.
 4. I color coded the items on my schedule by classes and work.
 5. All text switched to sans-serif font.
+6. Background image added and conent centered.
