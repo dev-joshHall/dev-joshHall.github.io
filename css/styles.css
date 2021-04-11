@@ -67,7 +67,7 @@ table, th, td {
 }
 
 body, html {
-    background-image: url('../img/rock_bg.jpg');
+    background-image: url('img/rock_bg.jpg');
     background-size: 2000px 1000px;
     background-repeat: no-repeat;
     background-attachment: fixed;
